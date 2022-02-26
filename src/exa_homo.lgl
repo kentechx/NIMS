@@ -1,0 +1,82 @@
+# Occipital
+Parietal.Left
+Parietal.Right
+Temporal.Left
+Temporal.Right
+Sphenoidal
+# Parietal.Left
+Parietal.Right
+Temporal.Left
+Sphenoidal
+Frontal
+# Parietal.Right
+Temporal.Right
+Sphenoidal
+Frontal
+# Temporal.Left
+Sphenoidal
+Zygomatic.Left
+# Temporal.Right
+Sphenoidal
+Zygomatic.Right
+# Sphenoidal
+Zygomatic.Left
+Zygomatic.Right
+Frontal
+Ethmoidal
+Palatine.Left
+Palatine.Right
+Vomer
+# Zygomatic.Left
+Frontal
+Maxilla.Left
+# Zygomatic.Right
+Frontal
+Maxilla.Right
+# Frontal
+Ethmoidal
+Nasal.Left
+Nasal.Right
+Maxilla.Left
+Maxilla.Right
+Lacrimal.Left
+Lacrimal.Right
+# Ethmoidal
+Nasal.Left
+Nasal.Right
+Maxilla.Left
+Maxilla.Right
+Lacrimal.Left
+Lacrimal.Right
+Palatine.Left
+Palatine.Right
+Nasal.Concha.Left
+Nasal.Concha.Right
+Vomer
+# Nasal.Left
+Nasal.Right
+Maxilla.Left
+# Nasal.Right
+Maxilla.Right
+# Maxilla.Left
+Maxilla.Right
+Lacrimal.Left
+Palatine.Left
+Nasal.Concha.Left
+Vomer
+# Maxilla.Right
+Lacrimal.Right
+Palatine.Right
+Nasal.Concha.Right
+Vomer
+# Lacrimal.Left
+Nasal.Concha.Left
+# Lacrimal.Right
+Nasal.Concha.Right
+# Palatine.Left
+Palatine.Right
+Nasal.Concha.Left
+Vomer
+# Palatine.Right
+Nasal.Concha.Right
+Vomer
